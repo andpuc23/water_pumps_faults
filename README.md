@@ -12,6 +12,10 @@ Repo for final project of Introduction to Data Science course @ Skoltech '21
 
 ## Idea
 
+The idea of the project is to make classificator for water pump in Tansania. For this task we applied different classical machine learning models, such as Linear Regression, Random Forest, Gradient Bossting ant others.
+
 ## Repository contents
+
+
 
 ## Results
