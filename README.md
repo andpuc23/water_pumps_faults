@@ -12,7 +12,7 @@ Repo for final project of Introduction to Data Science course @ Skoltech '21
 
 ## Idea
 
-The idea of the project is to make classificator for water pump in Tansania. For this task we applied different classical machine learning models, such as Linear Regression, Random Forest, Gradient Boosting ant others.
+The idea of the project is to make classificator for water pump in Tansania. For this task we applied different classical machine learning models, such as Linear Regression, Random Forest, Gradient Boosting and KNN + we make stacked model of majority voting.
 
 ## Repository contents
 
@@ -22,3 +22,5 @@ The idea of the project is to make classificator for water pump in Tansania. For
 | Pump.ipynb | jupyter notebook contains EDA abnd machine learning models|
 
 ## Results
+
+Gradient Boosting model perform the best. We achieve Accuracy 0.81 and F1 0.8 using this model.
