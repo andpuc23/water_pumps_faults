@@ -24,3 +24,11 @@ The idea of the project is to make classificator for water pump in Tansania. For
 ## Results
 
 Gradient Boosting model perform the best. We achieve Accuracy 0.81 and F1 0.8 using this model.
+
+## Contacts
+
+| **Name** | **Telegramm** | **Email**|
+|----:|:----------:|:----|
+| Petr Sokerin | @Petr_Sokerin | sokerinpo@mail.ru |
+| Andrey Pushkov | @snipercapt |  |
+| Alina Rogulina | @avrogulina |  |
