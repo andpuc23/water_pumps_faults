@@ -19,7 +19,7 @@ The idea of the project is to make classificator for water pump in Tansania. For
 | File or Folder | Content |
 | --- | --- |
 | data | the folder contains train and test datasets, contains information about water pumps in Tanzania |
-| Pump.ipynb | jupyter notebook contains EDA abnd machine learning models|
+| Pump.ipynb | jupyter notebook contains EDA and machine learning models|
 
 ## Results
 
@@ -27,8 +27,8 @@ Gradient Boosting model perform the best. We achieve Accuracy 0.81 and F1 0.8 us
 
 ## Contacts
 
-| **Name** | **Telegramm** | **Email**|
-|----:|:----------:|:----|
-| Petr Sokerin | @Petr_Sokerin | sokerinpo@mail.ru |
-| Andrey Pushkov | @snipercapt |  |
-| Alina Rogulina | @avrogulina |  |
+| **Name** | **Telegram** |
+|----:|:----------:|
+| Petr Sokerin | @Petr_Sokerin |
+| Andrey Puchkov | @snipercapt |
+| Alina Rogulina | @avrogulina |
